@@ -38,8 +38,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcodromero)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcodromero)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodromero&layout=compact)
 
 <!--

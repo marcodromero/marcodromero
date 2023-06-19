@@ -38,8 +38,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcodromero&rank_icon=github&hide=stars&locale=es&include_all_commits=true&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodromero&layout=compact&locale=es&card_width=450)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcodromero&rank_icon=github&hide=stars&locale=es&include_all_commits=true&line_height=24&card_width=440)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodromero&layout=compact&locale=es&card_width=440)
 
 <!--
 **marcodromero/marcodromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

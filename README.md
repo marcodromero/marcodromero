@@ -12,11 +12,8 @@
 
 ### Acerca de mí :
 
-- 🔍 Actualmente estoy buscando empleo como desarrollador backend o full stack.
-- 🌱 Actualmente estoy aprendiendo sobre Node, express, y React para desarrollar un sitio web completo.
-- 📫 como llegar a mi: Envíame un mensaje junto a tu solicitud de [Linkedin](https://www.linkedin.com/in/marcodromero).
-- ⚡ Dato curioso: Durante muchos años vi a mi computadora como solo un hobby. Hoy en dia es tambien mi herramienta de trabajo.
-
+- 🔍 Actualmente estoy buscando empleo como desarrollador.
+  
 ---
 
 <div align="left">

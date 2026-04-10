@@ -30,11 +30,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" widht="40" height="40">&nbsp
 </div>
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcodromero&rank_icon=github&hide=stars&locale=es&include_all_commits=true&line_height=24&card_width=420)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodromero&layout=compact&locale=es&card_width=420)
-
 <!--
 **marcodromero/marcodromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
